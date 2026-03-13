@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Fırında Baharatlı Patates",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Patates", "Zeytinyağı", "Kekik", "Pul Biber", "Tuz"],
+    "instructions": [
+      "Patatesleri iyice yıkayıp kabuklarını soymadan elma dilimi şeklinde doğrayın.",
+      "Geniş bir kapta zeytinyağı, kekik, pul biber ve tuzu patateslerin her yerine gelecek şekilde harmanlayın.",
+      "Yağlı kağıt serili fırın tepsisine patatesleri üst üste gelmeyecek şekilde dizin ve 200 derecede altın sarısı olana kadar pişirin."
+    ],
+    "allergens": [],
+    "likeCount": 0
+  },
+  {
+    "title": "Pratik Margherita Pizza",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Lavaş", "Domates Sosu", "Mozzarella", "Taze Fesleğen"],
+    "instructions": [
+      "İnce bir lavaşı fırın tepsisine alın ve üzerine iki kaşık domates sosunu kenarlarda boşluk kalacak şekilde yayın.",
+      "Rendelenmiş mozzarella peynirini sosun üzerine bolca serpiştirin.",
+      "Önceden ısıtılmış 180 derece fırında peynirler tamamen eriyip hafifçe kızarana kadar yaklaşık 7-8 dakika pişirip taze fesleğenle servis edin."
+    ],
+    "allergens": ["Glüten", "Laktoz"],
+    "likeCount": 0
+  },
+  {
+    "title": "Ballı Hardallı Tavuk",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Tavuk Göğsü", "Süzme Bal", "Hardal", "Sarımsak", "Zeytinyağı"],
+    "instructions": [
+      "Tavuk göğsünü kuşbaşı şeklinde doğrayın ve sarımsakları ezin.",
+      "Küçük bir kasede bal, hardal, zeytinyağı ve sarımsağı karıştırarak pürüzsüz bir sos elde edin.",
+      "Tavukları orta ateşte tavada mühürledikten sonra hazırladığınız sosu ekleyin ve tavuklar sosu karamelize edip çekene kadar pişirmeye devam edin."
+    ],
+    "allergens": ["Hardal"],
+    "likeCount": 0
+  },
+  {
+    "title": "Kakaolu Islak Kek",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Yumurta", "Toz Şeker", "Kakao", "Un", "Süt"],
+    "instructions": [
+      "Yumurta ve şekeri krema kıvamına gelene kadar yaklaşık 5 dakika boyunca yüksek devirde çırpın.",
+      "Süt, un ve kakaoyu ekleyerek homojen bir karışım elde edin ve yağlanmış kalıba döküp 170 derecede pişirin.",
+      "Kek fırından çıktıktan sonra ilk sıcaklığının geçmesini bekleyin ve hazırladığınız soğuk sütlü-kakaolu sosu kürdanla delikler açtığınız kekin üzerine dökün."
+    ],
+    "allergens": ["Glüten", "Laktoz", "Yumurta"],
+    "likeCount": 0
+  },
+  {
+    "title": "Avokadolu Poşe Yumurta",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Tam Buğday Ekmeği", "Olgun Avokado", "Yumurta", "Limon Suyu"],
+    "instructions": [
+      "Avokadoyu ikiye bölün, içini bir kasede limon suyu ve tuz ile krema kıvamına gelene kadar ezin.",
+      "Bir tencerede suyu kaynama noktasına getirin, içine bir kaşık sirke ekleyip kaşıkla girdap oluşturun ve yumurtayı nazikçe ortasına bırakın.",
+      "Kızarmış ekmek diliminin üzerine önce avokado ezmesini sürün, ardından 3 dakika pişen poşe yumurtayı üzerine yerleştirin."
+    ],
+    "allergens": ["Yumurta", "Glüten"],
+    "likeCount": 0
+  },
+  {
+    "title": "Mantarlı Kremalı Makarna",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Penne Makarna", "Kültür Mantarı", "Sıvı Krema", "Sarımsak"],
+    "instructions": [
+      "Makarnayı bol tuzlu kaynar suda paketin üzerindeki süreden 2 dakika daha az haşlayıp süzün.",
+      "Mantarları ince ince dilimleyin ve yüksek ateşte suyunu salıp çekene kadar soteledikten sonra ezilmiş sarımsak ve kremayı ekleyin.",
+      "Krema hafifçe koyulaşmaya başladığında haşlanmış makarnaları sosla birleştirin ve kısık ateşte sos makarnaya tamamen yapışana kadar karıştırın."
+    ],
+    "allergens": ["Glüten", "Laktoz"],
+    "likeCount": 0
+  },
+  {
+    "title": "Çilekli Magnolia",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Süt", "Bebek Bisküvisi", "Nişasta", "Taze Çilek", "Şeker"],
+    "instructions": [
+      "Süt, şeker ve nişastayı bir tencereye alıp sürekli karıştırarak koyu bir muhallebi kıvamı alana kadar pişirin.",
+      "Bebek bisküvilerini mutfak robotundan geçirerek un haline getirin ve çilekleri ince dilimler şeklinde kesin.",
+      "Servis bardaklarının dibine bisküvi, kenarlarına çilek dilimleri ve orta kısma muhallebi gelecek şekilde kat kat dizin."
+    ],
+    "allergens": ["Laktoz", "Glüten"],
+    "likeCount": 0
+  },
+  {
+    "title": "Sarımsaklı Ekmek",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Baguette Ekmek", "Tereyağı", "Sarımsak", "Maydanoz", "Kaşar Peyniri"],
+    "instructions": [
+      "Oda sıcaklığındaki tereyağını ezilmiş sarımsak ve ince kıyılmış maydanoz ile pürüzsüz bir macun haline gelene kadar karıştırın.",
+      "Baguette ekmeğini tam koparmadan dilimler halinde kesin ve her dilimin arasına hazırladığınız sarımsaklı tereyağını sürün.",
+      "Aralara rendelenmiş kaşar peyniri yerleştirip ekmeği folyoya sarın ve 200 derece fırında peynirler eriyene kadar pişirin."
+    ],
+    "allergens": ["Glüten", "Laktoz"],
+    "likeCount": 0
+  },
+  {
+    "title": "Muzlu Smoothie Bowl",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Donmuş Muz", "Yulaf Ezmesi", "Süt", "Fıstık Ezmesi"],
+    "instructions": [
+      "Dondurulmuş muzları, süt, yulaf ve fıstık ezmesi ile birlikte mutfak robotuna atın.",
+      "Karışım dondurma kıvamına gelene kadar kısa aralıklarla bızlatın.",
+      "Hazırladığınız karışımı bir kaseye alın ve üzerine taze meyveler ekleyerek süsleyin."
+    ],
+    "allergens": ["Laktoz", "Kuruyemiş"],
+    "likeCount": 0
+  },
+  {
+    "title": "Sebzeli Mücver",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Kabak", "Yumurta", "Taze Dereotu", "Un", "Beyaz Peynir"],
+    "instructions": [
+      "Kabakları rendeleyin ve sularını bir tülbent yardımıyla iyice sıkın.",
+      "Geniş bir kapta yumurta, un, ufalanmış peynir ve ince kıyılmış dereotunu kabaklarla birlikte kıvamlı bir harç olana kadar karıştırın.",
+      "Kızgın yağ dökülmüş tavaya kaşık yardımıyla porsiyonlar halinde bırakın ve her iki tarafını da kızartın."
+    ],
+    "allergens": ["Glüten", "Yumurta", "Laktoz"],
+    "likeCount": 0
+  },
+  {
+    "title": "Limonlu Somon",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Somon Filato", "Limon", "Kuşkonmaz", "Zeytinyağı"],
+    "instructions": [
+      "Somon filetolarını kurulayın ve her iki yüzünü zeytinyağı, tuz ve karabiber ile ovun.",
+      "Fırın tepsisine somonları ve kuşkonmazları yerleştirin, üzerine limon dilimleri koyun.",
+      "200 derecede yaklaşık 15 dakika, somonlar çatal batırıldığında dağılana kadar pişirin."
+    ],
+    "allergens": ["Balık"],
+    "likeCount": 0
+  },
+  {
+    "title": "Mozaik Pasta",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Pötibör Bisküvi", "Erimiş Bitter Çikolata", "Süt", "Ceviz İçi"],
+    "instructions": [
+      "Bisküvileri derin bir kapta parçalayın ve üzerine iri kıyılmış ceviz içlerini ekleyin.",
+      "Süt ve erimiş çikolatayı karıştırıp bisküvilerin üzerine dökün ve nazikçe karıştırın.",
+      "Karışımı streç film üzerine alıp rulo şekli verin ve buzlukta en az 4 saat bekletin."
+    ],
+    "allergens": ["Glüten", "Laktoz", "Kuruyemiş"],
+    "likeCount": 0
+  },
+  {
+    "title": "Kıymalı Quesadilla",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Tortilla Ekmeği", "Dana Kıyma", "Cheddar Peyniri", "Soğan"],
+    "instructions": [
+      "Soğan ve kıymayı tavada iyice kavurun ve baharatlandırın.",
+      "Bir adet tortilla ekmeğinin yarısına harcı ve peyniri koyup diğer yarısını üzerine kapatın.",
+      "Yağsız tavada her iki yüzünü de peynirler eriyene kadar orta ateşte ısıtın."
+    ],
+    "allergens": ["Glüten", "Laktoz"],
+    "likeCount": 0
+  },
+  {
+    "title": "Cevizli Semizotu Salatası",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Taze Semizotu", "Süzme Yoğurt", "Sarımsak", "Ceviz İçi"],
+    "instructions": [
+      "Semizotunun yaprak kısımlarını yıkayın ve iyice kurulayın.",
+      "Süzme yoğurdu ezilmiş sarımsak ile pürüzsüz hale gelene kadar çırpıp semizotu ile karıştırın.",
+      "Üzerine zeytinyağı ve bolca ceviz ekleyerek servis yapın."
+    ],
+    "allergens": ["Laktoz", "Kuruyemiş"],
+    "likeCount": 0
+  },
+  {
+    "title": "Elmalı Milföy",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Milföy Hamuru", "Elma", "Tarçın", "Yumurta Sarısı"],
+    "instructions": [
+      "Elmaları rendeleyip şeker ve tarçınla suyunu çekene kadar pişirip soğutun.",
+      "Milföy karelerinin ortasına harçtan koyun ve istediğiniz şekilde kapatın.",
+      "Üzerine yumurta sarısı sürüp 190 derece fırında kızarana kadar pişirin."
+    ],
+    "allergens": ["Glüten", "Yumurta"],
+    "likeCount": 0
+  },
+  {
+    "title": "Köri Soslu Tavuk",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Tavuk Göğsü", "Köri", "Sıvı Krema", "Mantar"],
+    "instructions": [
+      "Tavukları jülyen doğrayıp yüksek ateşte soteleyin ve ardından mantarları ekleyin.",
+      "Mantarlar suyunu çekince köriyi ve kremayı ekleyin.",
+      "Kısık ateşte sos koyulaşana kadar yaklaşık 5 dakika daha pişirin."
+    ],
+    "allergens": ["Laktoz"],
+    "likeCount": 0
+  },
+  {
+    "title": "Peynirli Omlet",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Yumurta", "Beyaz Peynir", "Tereyağı", "Taze Maydanoz"],
+    "instructions": [
+      "Yumurtaları bir kasede az tuz ile iyice çırpın.",
+      "Tereyağını tavada eritip yumurtayı dökün ve her yere yayın.",
+      "Hafifçe katılaşınca yarısına peynir ve maydanoz ekleyip ikiye katlayarak servis yapın."
+    ],
+    "allergens": ["Yumurta", "Laktoz"],
+    "likeCount": 0
+  },
+  {
+    "title": "Mercimek Köftesi",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Kırmızı Mercimek", "İnce Bulgur", "Domates Salçası", "Yeşillik"],
+    "instructions": [
+      "Mercimeği haşlayın, içine ince bulguru ekleyip kapağını kapatarak şişmesini bekleyin.",
+      "Kavrulmuş soğanlı salçalı sosu ekleyip iyice yoğurun.",
+      "Taze yeşillikleri ekleyip şekil vererek marul ile servis edin."
+    ],
+    "allergens": ["Glüten"],
+    "likeCount": 0
+  },
+  {
+    "title": "Karamelize Soğanlı Burger",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Burger Köftesi", "Kuru Soğan", "Hamburger Ekmeği", "Hardal"],
+    "instructions": [
+      "Soğanları piyazlık doğrayıp şekerle birlikte kısık ateşte 15 dakika karamelize edin.",
+      "Burger köftelerini pişirin ve ekmekleri de aynı tavada hafifçe ısıtın.",
+      "Ekmek tabanına hardal sürüp köfte ve soğanları dizerek kapatın."
+    ],
+    "allergens": ["Glüten", "Hardal"],
+    "likeCount": 0
+  },
+  {
+    "title": "Yoğurtlu Patlıcan Ezme",
+    "authorId": "system",
+    "authorName": "Mutfak Asistanı",
+    "authorAvatarId": 10,
+    "ingredients": ["Patlıcan", "Süzme Yoğurt", "Sarımsak", "Zeytinyağı"],
+    "instructions": [
+      "Patlıcanları közleyin, kabuklarını soyun ve bıçakla incecik olana kadar kıyın.",
+      "Kıyılmış patlıcanları sarımsaklı süzme yoğurt ile karıştırın.",
+      "Üzerine zeytinyağı gezdirip soğuk servis yapın."
+    ],
+    "allergens": ["Laktoz"],
+    "likeCount": 0
+  }
+]
